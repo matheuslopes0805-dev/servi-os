@@ -34,7 +34,7 @@ export function HeroSection() {
             size="lg"
             className="group bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300"
           >
-            Iniciar Projeto
+            Faça seu Orçamento
             <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
           </Button>
         </div>
