@@ -65,7 +65,7 @@ export function ContactSection() {
         {/* CTA Message */}
         <div className="mt-16 text-center p-8 rounded-lg border border-border bg-card/30 backdrop-blur-sm">
           <p className="text-xl md:text-2xl text-foreground font-medium mb-4">
-            Seu próximo projeto começa aqui
+            Seu projeto ou sonho começa aqui
           </p>
           <p className="text-muted-foreground max-w-xl mx-auto">
             Cada grande jornada digital começa com uma conversa. 
