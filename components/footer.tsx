@@ -13,7 +13,7 @@ export function Footer() {
           </div>
           
           <p className="text-sm text-muted-foreground text-center">
-            Transformando ideias em experiências digitais
+            Transformando ideias em realidade
           </p>
           
           <p className="text-sm text-muted-foreground">
