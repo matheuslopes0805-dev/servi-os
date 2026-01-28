@@ -24,8 +24,8 @@ export function HeroSection() {
         </p>
         
         <p className="text-base md:text-lg text-muted-foreground/80 max-w-2xl mx-auto mb-10 leading-relaxed animate-in fade-in slide-in-from-bottom-4 duration-700 delay-300">
-          Transformo ideias em experiências digitais memoráveis. 
-          Design moderno, código limpo e resultados que impulsionam seu negócio.
+          Transformo suas ideias em realidade. A inovação e a elegância da tecnologia dando uma nova cara à sua empresa.   
+          Design moderno, elegante, tudo o que uma empresa precisa. Resultados que impulsionam seu negócio!
         </p>
         
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-700 delay-500">
